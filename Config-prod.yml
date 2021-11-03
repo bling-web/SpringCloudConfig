@@ -1,1 +1,2 @@
-This is Config-prod.yml
+config:
+  info: This is Config-prod.yml
